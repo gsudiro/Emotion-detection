@@ -1,0 +1,7 @@
+.venv
+venv
+env
+src/data/test*
+src/data/train/*
+src/fer2013.csv
+src/model.h5
